@@ -1,0 +1,19 @@
+{
+  "author": {
+    "name": "vCard"
+  },
+  "dependencies": {},
+  "description": "A template project using serverless and python3",
+  "devDependencies": {
+    "serverless": "1.17.0"
+  },
+  "homepage": "https://github.com/vcard/serverless-python3-template#readme",
+  "name": "vcl-ns",
+  "optionalDependencies": {},
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vcard/serverless-python3-template.git"
+  },
+  "version": "1.0.0"
+}
